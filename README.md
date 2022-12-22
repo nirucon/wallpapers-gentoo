@@ -1,2 +1,3 @@
-# wp-gentoo
-my custom gentoo wps
+# wallpapers-gentoo
+* my custom gentoo wallpapers
+* more to come...
